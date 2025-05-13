@@ -1,5 +1,7 @@
 Privacy Policy – Clear Ai On
+
 Last updated: 13-05-2025
+
 At Clear Ai On, we respect the privacy of our users. This Privacy Policy aims to inform you clearly and transparently about how we handle your data when you use our application.
 
 1. Data Collection
