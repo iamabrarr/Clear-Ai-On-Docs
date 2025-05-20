@@ -1,17 +1,17 @@
-Privacy Policy – Clear Ai On
+Privacy Policy – PjDriver
 
 Last updated: 13-05-2025
 
-At Clear Ai On, we respect the privacy of our users. This Privacy Policy aims to inform you clearly and transparently about how we handle your data when you use our application.
+At PjDriver, we respect the privacy of our users. This Privacy Policy aims to inform you clearly and transparently about how we handle your data when you use our application.
 
 1. Data Collection
-Clear Ai On does not collect, store, or process any personally identifiable information from its users.
+PjDriver does not collect, store, or process any personally identifiable information from its users.
 We do not request:
 	•	your name,
 	•	your email address,
 	•	your location data,
 	•	your activity or behavior within the app.
-Images you process using Clear Ai On remain local on your device and are not stored on our servers.
+Images you process using PjDriver remain local on your device and are not stored on our servers.
 
 2. Payments and Subscriptions
 In-app purchases (free trial, annual subscription) are managed directly through the platforms (Apple App Store or Google Play Store).
